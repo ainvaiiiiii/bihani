@@ -33,6 +33,10 @@ Nikita is the driving force behind the success of the brand, and her passion for
 
 > At Pet Mama, we understand that pets are not just animals, but they are an integral part of our family. Therefore, we provide the best possible care for your furry companions. Our team comprises of experienced and highly skilled pet care professionals who are dedicated to ensuring the health and happiness of your pets.
 
+### Mission 
+
+> We are committed to educating pet parents about pet care, health, and wellness. We believe that a well-informed pet parent is essential for the well-being of their pets. Therefore, we offer seminars, workshops, and other educational resources to help pet parents take better care of their pets
+
 ### Ordered List
 
 1. First item
