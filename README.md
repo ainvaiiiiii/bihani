@@ -25,13 +25,13 @@ Pet Mama is a caring and compassionate pet care company that provides high-quali
 
 ### Nikita Jalan – CEO/ Co-Founder / Doggy Mama
 
-*Nikita, the founder and CEO of Pet Mama! After conquering the corporate world at AIG, Nikita traded her business suit for a dog leash and returned to her roots in Nepal to follow her passion for pets. A certified dog behaviorist and internationally trained Pet Grooming and Beauty Expert, Nikita is the ultimate OG Doggy Mama at Pet Mama. With her infectious love for animals and quirky personality, Nikita has built one of Nepal’s most beloved pet care brands.
+Nikita, the founder and CEO of Pet Mama! After conquering the corporate world at AIG, Nikita traded her business suit for a dog leash and returned to her roots in Nepal to follow her passion for pets. A certified dog behaviorist and internationally trained Pet Grooming and Beauty Expert, Nikita is the ultimate OG Doggy Mama at Pet Mama. With her infectious love for animals and quirky personality, Nikita has built one of Nepal’s most beloved pet care brands.
 
-Nikita is the driving force behind the success of the brand, and her passion for pets is evident in everything she does.*
+Nikita is the driving force behind the success of the brand, and her passion for pets is evident in everything she does.
 
-### Blockquote
+### Vision 
 
-> blockquote
+> At Pet Mama, we understand that pets are not just animals, but they are an integral part of our family. Therefore, we provide the best possible care for your furry companions. Our team comprises of experienced and highly skilled pet care professionals who are dedicated to ensuring the health and happiness of your pets.
 
 ### Ordered List
 
